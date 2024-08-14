@@ -4,7 +4,7 @@ import Heading from "../Common/Heading";
 const About = () => {
   return (
     <div className="about padding">
-      <Heading title="Hey, I am Ebuka Moses 🧑‍💻 " />
+      <Heading title="Hey, I am Ifeanyi Omejua 🧑‍💻 " />
       <div className="maincontent">
         <p className="text-justify">
           I am a dedicated and experienced React frontend developer with years

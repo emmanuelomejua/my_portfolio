@@ -52,7 +52,7 @@ const Portfolio = () => {
               <img src={pic} alt="Ebuka Moses Okoye" />
             </div>
 
-            <h1 className="h1 name">Ebuka Moses 👋🏾</h1>
+            <h1 className="h1 name">Ifeanyi Omejua 👋🏾</h1>
             <a href="/images/Ebuka_Moses_cv.pdf" className="cv">
               Hire Me | Download CV
             </a>
@@ -60,25 +60,25 @@ const Portfolio = () => {
             <div className="details flex-col">
               {/* <h6 className="h4">Lagos, Nigeria</h6> */}
               <h6 className="h4 flex-col">
-                <a href="tel:+2347038689968">07038689968</a>
+                <a href="tel:+2347038689968">08162396581</a>
                 <a href="mailto:Okoyemoses83@gmail.com">
-                  Okoyemoses83@gmail.com
+                  ifyomejua9722@gmail.com
                 </a>
               </h6>
               <div className="socialIcons flex justify-center ">
-                <a href="https://x.com/bukan_moses" target="_blank">
+                <a href="https://x.com/omejua_e" target="_blank">
                   <FaSquareXTwitter className="fa" />
                 </a>
-                <a href="https://instagram.com/bukan_moses" target="_blank">
+                {/* <a href="https://instagram.com/bukan_moses" target="_blank">
                   <FaInstagramSquare className="fa" />
-                </a>
+                </a> */}
                 <a
-                  href="https://www.linkedin.com/in/ebuka-moses-a417b614b/"
+                  href="https://www.linkedin.com/in/emmanuel-omejua-15b7a7230/"
                   target="_blank"
                 >
                   <FaLinkedin className="fa" />
                 </a>
-                <a href="https://github.com/ebukamoses" target="_blank">
+                <a href="https://github.com/emmanuelomejua/" target="_blank">
                   <FaGithubSquare className="fa" />
                 </a>
               </div>

@@ -111,18 +111,18 @@ export const technologies = [
     icon: MongoDB,
   },
 
-  {
-    title: "Php",
-    icon: Php,
-  },
-  {
-    title: "Mysql",
-    icon: Mysql,
-  },
-  {
-    title: "Firebase",
-    icon: Firebase,
-  },
+  // {
+  //   title: "Php",
+  //   icon: Php,
+  // },
+  // {
+  //   title: "Mysql",
+  //   icon: Mysql,
+  // },
+  // {
+  //   title: "Firebase",
+  //   icon: Firebase,
+  // },
   {
     title: "Git",
     icon: Git,
@@ -131,43 +131,43 @@ export const technologies = [
     title: "Github",
     icon: Github,
   },
-  {
-    title: "Vscode",
-    icon: Vscode,
-  },
-  {
-    title: "Wordpress",
-    icon: Wordpress,
-  },
-  {
-    title: "Core Draw",
-    icon: Core,
-  },
-  {
-    title: "Photoshop",
-    icon: Photoshop,
-  },
+  // {
+  //   title: "Vscode",
+  //   icon: Vscode,
+  // },
+  // {
+  //   title: "Wordpress",
+  //   icon: Wordpress,
+  // },
+  // {
+  //   title: "Core Draw",
+  //   icon: Core,
+  // },
+  // {
+  //   title: "Photoshop",
+  //   icon: Photoshop,
+  // },
 ];
 
 export const education = [
   {
-    uni: "Unizik, Awka",
-    date: "2016",
-    course: "BSc Business Adminstration",
+    uni: "Federal University Of Technology, Akure",
+    date: "2022",
+    course: "BTech Computer Science",
     desc: "",
   },
-  {
-    uni: "Unizik, Awka",
-    date: "2013",
-    course: "Diploma in Business Adminstration",
-    desc: "",
-  },
-  {
-    uni: "St. Charles’ Ankpa",
-    date: "2010",
-    course: "Senior School Certificate Examination",
-    desc: "",
-  },
+  // {
+  //   uni: "Unizik, Awka",
+  //   date: "2013",
+  //   course: "Diploma in Business Adminstration",
+  //   desc: "",
+  // },
+  // {
+  //   uni: "St. Charles’ Ankpa",
+  //   date: "2010",
+  //   course: "Senior School Certificate Examination",
+  //   desc: "",
+  // },
 ];
 
 export const post = [
@@ -182,30 +182,30 @@ export const post = [
 export const project = [
   {
     img: one,
-    title: "Hospital Website",
-    lang: ["React", "Sass", "Node", "Express", "Mongo DB"],
+    title: "Travel Seeker",
+    lang: ["React", "Sass", "Google Map API", "Express", "Rapid API"],
     live: "#",
-    github: "#",
+    github: "https://github.com/emmanuelomejua/Travel-Seeker",
   },
   {
     img: two,
-    title: "Hospital Website",
-    lang: ["React", "Sass", "Node", "Express", "Mongo DB"],
+    title: "Fecebook",
+    lang: ["React", "Express", "Socket.io", "Node", "Node", "Mongo DB"],
     live: "#",
-    github: "#",
+    github: "https://github.com/emmanuelomejua/social-media",
   },
   {
     img: three,
-    title: "Hospital Website",
+    title: "Fitness Application",
     lang: ["React", "Typescript", "Node", "Express", "Mongo DB", "Tailwind CSS", ''],
     live: "#",
     github: "#",
   },
   {
     img: four,
-    title: "Hospital Website",
-    lang: ["React", "Sass", "Node", "Express", "Mongo DB"],
-    live: "https://www.hullbridgesolicitors.com",
+    title: "Conference Call",
+    lang: ["React", "Tailwind", "Typescript", "Socket.io", "WebRTC"],
+    live: "#",
     github: "#",
   },
   {

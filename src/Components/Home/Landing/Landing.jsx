@@ -16,7 +16,7 @@ const Landing = () => {
       <video src={Hero} autoPlay loop muted type="video/mp4"></video>
 
       <div className="landing_content">
-        <p>I'M EBUKA MOSES, & I'M A</p>
+        <p>I'M IFEANYI E. OMEJUA, & I'M A</p>
         <div className="position text-animate flex-col items-center">
           <h1>FULL-STACK</h1>
           <h1>DEVELOPER</h1>
